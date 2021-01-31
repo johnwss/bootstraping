@@ -1,0 +1,45 @@
+body{
+background-color: gray;
+
+}
+
+.container{
+    background-color: green;
+    padding-bottom: 50px;
+}
+
+h3 {
+   color: blue; 
+   text-align: center;
+}
+
+h5, h6 {
+    
+    text-align: center;
+    
+ }
+
+ 
+
+#bannerLoja{
+    width: 100%;
+}
+
+#divImagemBanner{
+    margin-bottom: 10px;
+}
+
+#rowCards{
+   
+    
+}
+
+#tituloDestaques{
+ 
+}
+
+#rodape{
+    color: white;
+    padding-top: 50px;
+    background-color: darkgray;
+}
